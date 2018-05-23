@@ -18,4 +18,4 @@ The most recent version can be found on the [demo](https://carrythebanner.github
 
 ## License
 
-This work is provided with the Creative Commons CC BY-SA 4.0 license. If you share or adapt this work, please link to the demo page and credit Josh Hetrick.
+This work is provided with the [Creative Commons CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). If you share or adapt this work, please link to the demo page and credit Josh Hetrick.
