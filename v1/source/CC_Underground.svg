@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1000px"
+	 height="1184.556px" viewBox="0 0 1000 1184.556" enable-background="new 0 0 1000 1184.556" xml:space="preserve">
+<g id="Background">
+	<polyline fill="#C7DE98" points="451.5,529 442.5,556 433.5,601 451.5,556 	"/>
+	<path fill="#C7DE98" stroke="#808080" stroke-width="3" stroke-linejoin="round" stroke-miterlimit="10" d="M858,899.251
+		c0,6.628-5.373,12-12,12H73.54c-6.627,0-12-5.372-12-12V180.786c0-6.627,5.373-12,12-12H846c6.627,0,12,5.373,12,12V899.251z"/>
+</g>
+<g id="Train">
+	<g>
+		<g>
+			<line fill="none" stroke="#808080" stroke-width="25" stroke-miterlimit="10" x1="-79.5" y1="970" x2="-77.5" y2="970"/>
+			
+				<line fill="none" stroke="#808080" stroke-width="25" stroke-miterlimit="10" stroke-dasharray="4,4" x1="-73.5" y1="970" x2="1068.5" y2="970"/>
+			<line fill="none" stroke="#808080" stroke-width="25" stroke-miterlimit="10" x1="1070.5" y1="970" x2="1072.5" y2="970"/>
+		</g>
+	</g>
+	<line fill="none" stroke="#808080" stroke-width="3" stroke-miterlimit="10" x1="-79.5" y1="961" x2="1072.5" y2="961"/>
+	<line fill="none" stroke="#808080" stroke-width="3" stroke-miterlimit="10" x1="-79.5" y1="979" x2="1072.5" y2="979"/>
+</g>
+<g id="TriMet">
+	<g>
+		<g>
+			<polyline fill="none" stroke="#8551A0" stroke-width="5" stroke-linecap="round" stroke-linejoin="bevel" points="784.5,745 
+				928.5,745 973.5,745 			"/>
+			<g>
+				<path fill="#8551A0" d="M988.588,745c-7.1,2.635-15.908,7.129-21.368,11.89l4.3-11.89l-4.3-11.887
+					C972.68,737.873,981.488,742.368,988.588,745z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<polyline fill="none" stroke="#8551A0" stroke-width="5" stroke-linecap="round" stroke-linejoin="bevel" points="928.5,783.912 
+				928.5,745 928.5,706.088 			"/>
+			<g>
+				<path fill="#8551A0" d="M928.5,799c2.635-7.1,7.129-15.908,11.89-21.368l-11.89,4.3l-11.887-4.3
+					C921.373,783.092,925.868,791.9,928.5,799z"/>
+			</g>
+			<g>
+				<path fill="#8551A0" d="M928.5,691c2.635,7.1,7.129,15.908,11.89,21.368l-11.89-4.3l-11.887,4.3
+					C921.373,706.908,925.868,698.1,928.5,691z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Block_300">
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="bevel" x1="784.5" y1="736" x2="789.5" y2="736"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="bevel" stroke-dasharray="10.5455,10.5455" x1="800.046" y1="736" x2="900.228" y2="736"/>
+			<polyline fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="bevel" points="905.5,736 
+				910.5,736 910.5,731 			"/>
+			
+				<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="bevel" stroke-dasharray="9.9841,9.9841" d="
+				M910.5,721.016V457c0-250.669,0-326.912,0-350.017"/>
+			<path fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="bevel" d="M910.5,101.995
+				c0-4.55,0-4.995,0-4.995h-5"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="bevel" stroke-dasharray="9.5333,9.5333" x1="895.967" y1="97" x2="767.267" y2="97"/>
+			
+				<line fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="bevel" x1="762.5" y1="97" x2="757.5" y2="97"/>
+			<g>
+				<path d="M742.412,97c7.1-2.634,15.908-7.129,21.368-11.89L759.48,97l4.3,11.887C758.32,104.127,749.512,99.632,742.412,97z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="L_Line">
+	
+		<polyline fill="none" stroke="#A5A4A4" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		163.5,808 154.5,808 154.5,286 658.5,286 658.5,304 	"/>
+	<path fill="none" stroke="#A5A4A4" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M658.5,304"/>
+	
+		<polyline fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		658.5,304 658.5,286 154.5,286 154.5,286 154.5,808 163.5,808 	"/>
+</g>
+<g id="E_x2C__B_lines">
+	
+		<line fill="#FFFFFF" stroke="#4060AC" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" x1="568.501" y1="817" x2="568.501" y2="313"/>
+	
+		<polyline fill="none" stroke="#FDB814" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" points="
+		136.5,745 136.5,817 559.501,817 784.5,817 784.5,745 	"/>
+	
+		<line fill="none" stroke="#FDB814" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" x1="127.5" y1="745" x2="145.5" y2="745"/>
+	
+		<line fill="none" stroke="#FDB814" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" x1="172.5" y1="817" x2="172.5" y2="808"/>
+</g>
+<g id="T_Line">
+	
+		<polyline fill="none" stroke="#9F1D20" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" points="
+		424.5,871 424.5,736 775.5,736 775.5,529 586.5,529.001 	"/>
+	
+		<line fill="none" stroke="#9F1D20" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" x1="658.5" y1="520" x2="658.5" y2="529"/>
+	
+		<line fill="none" stroke="#9F1D20" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" x1="712.5" y1="520" x2="712.5" y2="529"/>
+	
+		<line fill="none" stroke="#9F1D20" stroke-width="9" stroke-linecap="square" stroke-linejoin="bevel" stroke-miterlimit="10" x1="415.5" y1="871" x2="433.5" y2="871"/>
+	<text transform="matrix(0.9397 -0.342 0.342 0.9397 444.9785 870.9785)" font-family="'PTSans-Regular'" font-size="12">Back Door</text>
+	<text transform="matrix(0.9397 -0.342 0.342 0.9397 73.4785 753.9785)" font-family="'PTSans-Regular'" font-size="12">Side Door</text>
+	<text transform="matrix(0.9397 -0.342 0.342 0.9397 190.4785 798.9785)" font-family="'PTSans-Regular'" font-size="12">Dungeon</text>
+	<text transform="matrix(0.9397 -0.342 0.342 0.9397 544.7002 726.3047)" font-family="'PTSans-Regular'" font-size="12">E1</text>
+	<text transform="matrix(0.9397 -0.342 0.342 0.9397 542.4766 799.9785)" font-family="'PTSans-Regular'" font-size="12">E0</text>
+	<path d="M-34.5,835"/>
+	
+		<line fill="none" stroke="#9F1D20" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" x1="712.5" y1="727" x2="712.5" y2="736"/>
+</g>
+<g id="Legend">
+	<text transform="matrix(1 0 0 1 550.5 1078)" font-family="'PTSans-Regular'" font-size="18">— Standup express; midday service only</text>
+	<text transform="matrix(1 0 0 1 550.5 1123)" font-family="'PTSans-Regular'" font-size="18">— Frequent, all day service to meetings</text>
+	<text transform="matrix(1 0 0 1 550.5 1033)" font-family="'PTSans-Regular'" font-size="18">— 1/2/3F via elevator</text>
+	<text transform="matrix(1 0 0 1 208.5 1033)" font-family="'PTSans-Regular'" font-size="18">— Basement/Front Door</text>
+	<text transform="matrix(1 0 0 1 208.5 1078)" font-family="'PTSans-Regular'" font-size="18">— 1/2/3F via stairs </text>
+	<text transform="matrix(1 0 0 1 136.5 1033)" font-family="'PTSans-Regular'" font-size="24">B Line</text>
+	<text transform="matrix(1 0 0 1 478.5 1123)" font-family="'PTSans-Regular'" font-size="24">M Line</text>
+	<text transform="matrix(1 0 0 1 478.5 1078)" font-family="'PTSans-Regular'" font-size="24">S Line</text>
+	<text transform="matrix(1 0 0 1 136.5 1078)" font-family="'PTSans-Regular'" font-size="24">F Line</text>
+	<text transform="matrix(1 0 0 1 136.5 1123)" font-family="'PTSans-Regular'" font-size="24">P Line</text>
+	<text transform="matrix(1 0 0 1 478.5 1033)" font-family="'PTSans-Regular'" font-size="24">E Line</text>
+	<text transform="matrix(1 0 0 1 208.5 1123)" font-family="'PTSans-Regular'" font-size="18">— Parking Lot/2F via Ford</text>
+	
+		<line fill="none" stroke="#FDB814" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" x1="100.5" y1="1024" x2="127.5" y2="1024"/>
+	
+		<line fill="#FFFFFF" stroke="#4060AC" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" x1="442.5" y1="1024" x2="469.5" y2="1024"/>
+	
+		<line fill="none" stroke="#A5A4A4" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="442.5" y1="1069" x2="469.5" y2="1069"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="442.5" y1="1069" x2="469.5" y2="1069"/>
+	
+		<line fill="none" stroke="#FDEC11" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" x1="442.5" y1="1114" x2="469.5" y2="1114"/>
+	
+		<line fill="none" stroke="#0BA34A" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" x1="100.5" y1="1069" x2="127.5" y2="1069"/>
+	
+		<line fill="none" stroke="#9F1D20" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" x1="100.5" y1="1114" x2="127.5" y2="1114"/>
+</g>
+<g id="F_Line">
+	
+		<polyline fill="none" stroke="#0BA34A" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" points="
+		577.501,313 784.5,313 784.5,520 784.5,745 577.501,745 	"/>
+	
+		<line fill="none" stroke="#0BA34A" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" x1="658.5" y1="313" x2="658.5" y2="304.703"/>
+	
+		<line fill="none" stroke="#0BA34A" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" x1="712.5" y1="736" x2="712.5" y2="745"/>
+	
+		<polyline fill="none" stroke="#0BA34A" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" points="
+		712.5,529 712.5,538 784.5,538 	"/>
+</g>
+<g id="Layer_4">
+</g>
+<g id="M_Line">
+	
+		<line fill="none" stroke="#FDEC11" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" x1="640.5" y1="484" x2="649.5" y2="484"/>
+	
+		<line fill="none" stroke="#FDEC11" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" x1="712.5" y1="484" x2="703.5" y2="484"/>
+	
+		<line fill="none" stroke="#FDEC11" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" x1="460.5" y1="538" x2="460.5" y2="547"/>
+	
+		<polyline fill="none" stroke="#FDEC11" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" points="
+		577.5,250 577.5,241 604.5,241 649.5,241 649.5,268 649.5,322 577.5,322 577.5,520 649.5,520 649.5,457 703.5,457 703.5,538 
+		424.5,538 424.5,520 511.834,520 523.167,520 577.5,520 	"/>
+	
+		<line fill="none" stroke="#FDEC11" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" x1="613.5" y1="232" x2="613.5" y2="241"/>
+	<path fill="none" stroke="#FDEC11" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" d="
+		M658.832,268.333"/>
+	<text transform="matrix(0.9397 -0.342 0.342 0.9397 589.8096 489.3125)" font-family="'PTSans-Regular'" font-size="12">Hawthorne</text>
+	<text transform="matrix(0.9397 -0.342 0.342 0.9397 717.1426 479.3135)" font-family="'PTSans-Regular'" font-size="12">St. Johns</text>
+	<text transform="matrix(0.9397 -0.342 0.342 0.9397 658.1445 513.9775)" font-family="'PTSans-Regular'" font-size="12">2F West</text>
+	<text transform="matrix(0.9397 -0.342 0.342 0.9397 714.8096 510.4795)" font-family="'PTSans-Regular'" font-size="12">2F East</text>
+	<text transform="matrix(0.9397 -0.342 0.342 0.9397 675.8105 728.6465)" font-family="'PTSans-Regular'" font-size="12">Ford Food &amp; Drink</text>
+	
+		<line fill="none" stroke="#FDEC11" stroke-width="9" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" x1="658.5" y1="268" x2="649.5" y2="268"/>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" x1="467.837" y1="520.002" x2="486.912" y2="520"/>
+			<g>
+				<polygon points="486.183,522.479 490.5,519.986 486.183,517.493 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" x1="516.426" y1="537.67" x2="535.501" y2="537.668"/>
+			<g>
+				<polygon points="517.156,540.148 512.838,537.656 517.155,535.163 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" x1="608.837" y1="520.002" x2="627.912" y2="520"/>
+			<g>
+				<polygon points="627.183,522.479 631.5,519.986 627.182,517.493 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" x1="671.088" y1="538.002" x2="690.164" y2="538"/>
+			<g>
+				<polygon points="671.817,540.48 667.5,537.988 671.817,535.495 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Transfer_stations">
+	
+		<circle fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" cx="573.167" cy="313.001" r="18"/>
+	
+		<path fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" d="
+		M586.5,529.001c0,9.939-8.059,17.997-18,17.997s-18-8.058-18-17.997c0-9.942,8.059-18.001,18-18.001S586.5,519.059,586.5,529.001z"
+		/>
+	
+		<circle fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" cx="568.5" cy="745" r="18"/>
+	
+		<circle fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" cx="568.5" cy="817" r="18"/>
+	
+		<circle fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" cx="784.5" cy="745" r="18"/>
+	<text transform="matrix(0.9397 -0.342 0.342 0.9397 540.8086 327.312)" font-family="'PTSans-Regular'" font-size="12">E3</text>
+	<text transform="matrix(0.9397 -0.342 0.342 0.9397 547.2061 511.4463)" font-family="'PTSans-Regular'" font-size="12">E2</text>
+	<text transform="matrix(0.9397 -0.342 0.342 0.9397 440.666 571.165)" font-family="'PTSans-Regular'" font-size="12">Tillikum</text>
+	<text transform="matrix(0.9397 -0.342 0.342 0.9397 798.0732 724.0176)" font-family="'PTSans-Regular'" font-size="12">Front Door</text>
+	
+		<circle fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" cx="172.5" cy="817" r="18"/>
+	
+		<circle fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="bevel" stroke-miterlimit="10" cx="658.5" cy="313.001" r="18"/>
+</g>
+<g id="Labels">
+	<text transform="matrix(0.9397 -0.342 0.342 0.9397 678.4775 301.313)" font-family="'PTSans-Regular'" font-size="12">Suite 300</text>
+	<text transform="matrix(0.9397 -0.342 0.342 0.9397 558.1445 273.646)" font-family="'PTSans-Regular'" font-size="12">Burnside</text>
+	<text transform="matrix(0.9397 -0.342 0.342 0.9397 592.8096 229.3125)" font-family="'PTSans-Regular'" font-size="12">Sellwood</text>
+	<text transform="matrix(0.9397 -0.342 0.342 0.9397 666.665 266.8984)" font-family="'PTSans-Regular'" font-size="12">Fremont</text>
+	<text transform="matrix(0.9397 -0.342 0.342 0.9397 773.4766 72.981)"><tspan x="0" y="0" font-family="'PTSans-Regular'" font-size="12">To Block 300 </tspan><tspan x="0" y="14.4" font-family="'PTSans-Regular'" font-size="12">(opening Dec 2014)</tspan></text>
+	<text transform="matrix(0.9397 -0.342 0.342 0.9397 942.4756 732.6455)" font-family="'PTSans-Regular'" font-size="12">TriMet</text>
+</g>
+<g id="Logo_bg">
+	<circle fill="#C7DE97" stroke="#0D4979" stroke-width="25" stroke-miterlimit="10" cx="302.993" cy="402.985" r="81"/>
+	<circle fill="#FFFFFF" stroke="#FFFFFF" stroke-width="9" stroke-miterlimit="10" cx="303.993" cy="403.985" r="5"/>
+	<path fill="#FFFFFF" stroke="#00ABDC" stroke-width="25" stroke-miterlimit="10" d="M221.993,400.985c0-44.735,36.265-81,81-81
+		s81,36.265,81,81"/>
+	<g>
+		<line fill="#C7DE98" x1="321.993" y1="387.819" x2="357.993" y2="351.152"/>
+		<g>
+			<polygon fill="#87C458" points="318.73,418.951 357.393,350.563 289.707,390.455 			"/>
+		</g>
+	</g>
+	<g>
+		<line fill="#C7DE98" x1="294.993" y1="413.318" x2="251.326" y2="458.318"/>
+		<g>
+			<polygon fill="#00A859" points="290.191,390.291 251.93,458.904 319.381,418.616 			"/>
+		</g>
+	</g>
+</g>
+<g id="Logo_bar">
+	<path fill="#C7DE98" stroke="#808080" stroke-miterlimit="10" d="M370.167,53.333"/>
+	
+		<line fill="#C7DE97" stroke="#000000" stroke-width="30" stroke-miterlimit="10" x1="194.993" y1="403.652" x2="410.993" y2="403.652"/>
+	<text transform="matrix(1.2393 0 0 1 218.4927 409.6519)" fill="#FFFFFF" font-family="'PTSans-Regular'" font-size="20.2194">UNDERGROUND</text>
+</g>
+<g id="Bikes">
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="526.832" cy="560.668" r="7.333"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="550.5" cy="560.668" r="7.333"/>
+	<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="526.832,560.834 530.333,549.834 549.333,559.959 
+		548.499,550.459 530.333,549.834 	"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="546.499" y1="548.668" x2="549.999" y2="548.668"/>
+	<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="530.333,549.584 532.083,548.085 535.249,547.584 	"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="548.499" y1="550.459" x2="548.333" y2="548.918"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="700.499" cy="561.001" r="7.334"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="724.167" cy="561.001" r="7.334"/>
+	<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="700.499,561.167 703.999,550.167 722.999,560.292 
+		722.166,550.792 703.999,550.167 	"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="720.166" y1="549.001" x2="723.666" y2="549.001"/>
+	<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="703.999,549.917 705.751,548.418 708.916,547.917 	"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="722.166" y1="550.792" x2="722.001" y2="549.251"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="384.165" cy="854.001" r="7.333"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="407.833" cy="854.001" r="7.333"/>
+	<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="384.165,854.167 387.666,843.167 406.666,853.292 
+		405.832,843.792 387.666,843.167 	"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="403.832" y1="842.001" x2="407.332" y2="842.001"/>
+	<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="387.666,842.917 389.417,841.418 392.582,840.917 	"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="405.832" y1="843.792" x2="405.667" y2="842.251"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="501.832" cy="324.001" r="7.333"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="525.5" cy="324.001" r="7.334"/>
+	<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="501.832,324.167 505.333,313.167 524.333,323.292 
+		523.499,313.792 505.333,313.167 	"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="521.499" y1="312.001" x2="524.999" y2="312.001"/>
+	<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="505.333,312.917 507.083,311.418 510.249,310.917 	"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="523.499" y1="313.792" x2="523.333" y2="312.251"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="643.832" cy="355.001" r="7.333"/>
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="667.5" cy="355.001" r="7.334"/>
+	<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="643.832,355.167 647.333,344.167 666.332,354.292 
+		665.499,344.792 647.333,344.167 	"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="663.499" y1="343.001" x2="666.999" y2="343.001"/>
+	<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="647.333,343.917 649.083,342.418 652.249,341.917 	"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="665.499" y1="344.792" x2="665.334" y2="343.251"/>
+</g>
+<g id="Car">
+	<g id="XMLID_2_">
+		<g>
+			<path d="M365.11,851.157c0.16,1,0,2.399,0,3.68s0,2.52,0,3.64c-0.68,0-1.36,0-2.04,0c-0.2,1,0.08,2.2-0.24,2.96
+				c-0.68,1.561-3.36,1.681-3.96-0.12c-0.32-0.8-0.04-1.6-0.12-2.84c-4.72,0-9.4,0-14.12,0c-0.2,1.08,0.12,1.92-0.12,2.76
+				c-0.52,2-3.56,1.801-4.08,0c-0.2-0.8,0.04-1.72-0.04-2.72c-0.64-0.12-1.48,0-2.2-0.04c0.12-2.08-0.12-4.88,0-6.88
+				c0.12-1.6,1.08-2.6,2.44-3.04c0.64-1.52,1.4-3.28,2.12-4.92c0.44-1.08,0.84-2.16,2.28-2.32c1.04-0.159,2.24,0,3.4,0
+				c2.24,0,4.56,0,6.84,0c1.4,0,3.28-0.199,4.16,0.36c0.64,0.48,0.92,1.36,1.28,2.2c0.68,1.56,1.28,2.96,2,4.64
+				C363.83,848.997,364.91,849.677,365.11,851.157z M362.71,853.117c0.32-1.721-1.16-2.681-2.4-2.521
+				c-1.04,0.12-1.72,0.8-1.84,1.601c-0.24,1.479,0.84,2.439,1.84,2.52C361.31,854.837,362.51,854.197,362.71,853.117z
+				 M342.79,848.477c5.92,0,11.88,0,17.8,0c-0.6-1.52-1.08-2.56-1.72-4.04c-0.2-0.479-0.32-1.04-0.68-1.279
+				c-0.52-0.32-2.16-0.2-3.04-0.2c-2.32,0-4.16,0-6.36,0c-1.12,0-2.28-0.08-3.24,0c-0.6,0.08-0.8,0.68-1.04,1.24
+				C343.91,845.717,343.31,847.197,342.79,848.477z M344.75,852.957c0.2-1.641-1.12-2.521-2.4-2.36c-2.48,0.28-2.44,3.84-0.04,4.12
+				C343.47,854.877,344.59,854.077,344.75,852.957z"/>
+		</g>
+		<g>
+		</g>
+	</g>
+</g>
+</svg>

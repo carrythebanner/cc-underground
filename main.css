@@ -1,0 +1,35 @@
+body {
+  background: #59381B;
+  color: #E3B771;
+  font-family: sans-serif;
+}
+
+a {
+  color: #61C456;
+}
+
+a:hover, a:focus {
+  background: #61C456;
+  color: #59381B;
+  outline: 2px solid #61C456;
+}
+
+main {
+  text-align: center;
+  margin: 0.5em;
+}
+
+h1 {
+  border-bottom: 4px double #E3B771;
+  padding: 0.5em 0;
+}
+
+#download ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#download ul li {
+  display: inline-block;
+}

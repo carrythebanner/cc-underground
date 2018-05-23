@@ -1,0 +1,251 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1153" height="1153" viewBox="0 0 1153 1153">
+  <g fill="none" fill-rule="evenodd" transform="translate(0 9)">
+    <g fill="#C7DE98" fill-rule="nonzero" transform="translate(141 142)">
+      <polyline points="390.5 361 381.5 388 372.5 433 390.5 388"/>
+      <path stroke="#808080" stroke-linejoin="round" stroke-width="3" d="M797,731.251 C797,737.879 791.627,743.251 785,743.251 L12.54,743.251 C5.913,743.251 0.54,737.879 0.54,731.251 L0.54,12.786 C0.54,6.159 5.913,0.786 12.54,0.786 L785,0.786 C791.627,0.786 797,6.159 797,12.786 L797,731.251 Z"/>
+    </g>
+    <g stroke="#808080" transform="translate(0 935)">
+      <g stroke-width="25" transform="translate(0 9)">
+        <path d="M0.5,0 L2.5,0"/>
+        <path stroke-dasharray="4 4" d="M6.5,0 L1148.5,0"/>
+        <path d="M1150.5,0 L1152.5,0"/>
+      </g>
+      <path stroke-width="3" d="M.5 0L1152.5 0M.5 18L1152.5 18"/>
+    </g>
+    <g transform="translate(864 665)">
+      <g transform="translate(0 42)">
+        <polyline stroke="#8551A0" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="5" points=".5 12 144.5 12 189.5 12"/>
+        <path fill="#8551A0" fill-rule="nonzero" d="M204.588,12 C197.488,14.635 188.68,19.129 183.22,23.89 L187.52,12 L183.22,0.113 C188.68,4.873 197.488,9.368 204.588,12 Z"/>
+      </g>
+      <g transform="translate(132)">
+        <polyline stroke="#8551A0" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="5" points="12.5 92.912 12.5 54 12.5 15.088"/>
+        <path fill="#8551A0" fill-rule="nonzero" d="M12.5 108C15.135 100.9 19.629 92.092 24.39 86.632L12.5 90.932.613 86.632C5.373 92.092 9.868 100.9 12.5 108zM12.5 0C15.135 7.1 19.629 15.908 24.39 21.368L12.5 17.068.613 21.368C5.373 15.908 9.868 7.1 12.5 0z"/>
+      </g>
+    </g>
+    <g transform="translate(822 59)">
+      <path stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="5" d="M42.5,651 L47.5,651"/>
+      <path stroke="#000000" stroke-dasharray="10.546 10.546" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="5" d="M58.046,651 L158.228,651"/>
+      <polyline stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="5" points="163.5 651 168.5 651 168.5 646"/>
+      <path stroke="#000000" stroke-dasharray="9.984 9.984" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="5" d="M168.5,636.016 L168.5,372 C168.5,121.331 168.5,45.088 168.5,21.983"/>
+      <path stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="5" d="M168.5,16.995 C168.5,12.445 168.5,12 168.5,12 L163.5,12"/>
+      <path stroke="#000000" stroke-dasharray="9.533 9.533" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="5" d="M153.967,12 L25.267,12"/>
+      <path stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="5" d="M20.5,12 L15.5,12"/>
+      <path fill="#000000" fill-rule="nonzero" d="M0.412,12 C7.512,9.366 16.32,4.871 21.78,0.11 L17.48,12 L21.78,23.887 C16.32,19.127 7.512,14.632 0.412,12 Z"/>
+    </g>
+    <g stroke-linecap="round" stroke-linejoin="round" transform="translate(234 260)">
+      <polyline stroke="#A5A4A4" stroke-width="9" points="9.5 522 .5 522 .5 0 504.5 0 504.5 18"/>
+      <polyline stroke="#FFFFFF" stroke-width="4" points="504.5 18 504.5 0 .5 0 .5 0 .5 522 9.5 522"/>
+    </g>
+    <g stroke-linecap="round" stroke-linejoin="bevel" stroke-width="9" transform="translate(207 287)">
+      <path fill="#FFFFFF" fill-rule="nonzero" stroke="#4060AC" d="M441.501,504 L441.501,0"/>
+      <polyline stroke="#FDB814" points="9.5 432 9.5 504 432.501 504 657.5 504 657.5 432"/>
+      <path stroke="#FDB814" d="M.5 432L18.5 432M45.5 504L45.5 495"/>
+    </g>
+    <g transform="translate(149 494)">
+      <polyline stroke="#9F1D20" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="9" points="355.5 351 355.5 216 706.5 216 706.5 9 517.5 9.001"/>
+      <path stroke="#9F1D20" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="9" d="M589.5 0L589.5 9M643.5 0L643.5 9"/>
+      <path stroke="#9F1D20" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="9" d="M346.5,351 L364.5,351"/>
+      <text fill="#000000" font-family="Helvetica" font-size="12" transform="rotate(-19.999 401.392 337.473)">
+        <tspan x="372.892" y="341.473">Back Door</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="12" transform="rotate(-19.999 28.482 220.986)">
+        <tspan x="1.482" y="224.986">Side Door</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="12" transform="rotate(-19.999 143.133 266.84)">
+        <tspan x="118.633" y="270.841">Dungeon</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="12" transform="rotate(-19.999 481.38 199.98)">
+        <tspan x="473.88" y="203.981">E1</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="12" transform="rotate(-19.999 479.156 273.655)">
+        <tspan x="471.656" y="277.655">E0</tspan>
+      </text>
+      <path stroke="#9F1D20" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="9" d="M643.5,207 L643.5,216"/>
+    </g>
+    <g transform="translate(180 984)">
+      <text fill="#000000" font-family="Helvetica" font-size="18">
+        <tspan x="450.5" y="68">— Standup express; midday service only</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="18">
+        <tspan x="450.5" y="113">— Frequent, all day service to meetings</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="18">
+        <tspan x="450.5" y="23">— 1/2/3F via elevator</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="18">
+        <tspan x="108.5" y="23">— Basement/Front Door</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="18">
+        <tspan x="108.5" y="68">— 1/2/3F via stairs</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="24">
+        <tspan x="36.5" y="23">B Line</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="24">
+        <tspan x="378.5" y="113">M Line</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="24">
+        <tspan x="378.5" y="68">S Line</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="24">
+        <tspan x="36.5" y="68">F Line</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="24">
+        <tspan x="36.5" y="113">P Line</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="24">
+        <tspan x="378.5" y="23">E Line</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="18">
+        <tspan x="108.5" y="113">— Parking Lot/2F via Ford</tspan>
+      </text>
+      <path stroke="#FDB814" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="9" d="M0.5,14 L27.5,14"/>
+      <path fill="#FFFFFF" fill-rule="nonzero" stroke="#4060AC" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="9" d="M342.5,14 L369.5,14"/>
+      <path stroke="#A5A4A4" stroke-linecap="round" stroke-linejoin="round" stroke-width="9" d="M342.5,59 L369.5,59"/>
+      <path stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M342.5,59 L369.5,59"/>
+      <path stroke="#FDEC11" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="9" d="M342.5,104 L369.5,104"/>
+      <path stroke="#0BA34A" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="9" d="M0.5,59 L27.5,59"/>
+      <path stroke="#9F1D20" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="9" d="M0.5,104 L27.5,104"/>
+    </g>
+    <g stroke="#0BA34A" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="9" transform="translate(657 278)">
+      <polyline points=".501 9 207.5 9 207.5 216 207.5 441 .501 441"/>
+      <path d="M81.5 9L81.5.703M135.5 432L135.5 441"/>
+      <polyline points="135.5 225 135.5 234 207.5 234"/>
+    </g>
+    <g transform="translate(504 206)">
+      <path stroke="#FDEC11" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="9" d="M216.5 252L225.5 252M288.5 252L279.5 252M36.5 306L36.5 315"/>
+      <polyline stroke="#FDEC11" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="9" points="153.5 18 153.5 9 180.5 9 225.5 9 225.5 36 225.5 90 153.5 90 153.5 288 225.5 288 225.5 225 279.5 225 279.5 306 .5 306 .5 288 87.834 288 99.167 288 153.5 288"/>
+      <path stroke="#FDEC11" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="9" d="M189.5,0 L189.5,9"/>
+      <text fill="#000000" font-family="Helvetica" font-size="12" transform="rotate(-19.999 192.163 243.465)">
+        <tspan x="162.663" y="247.465">Hawthorne</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="12" transform="rotate(-19.999 315.737 234.834)">
+        <tspan x="290.237" y="238.834">St. Johns</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="12" transform="rotate(-19.999 253.92 270.524)">
+        <tspan x="231.42" y="274.524">2F West</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="12" transform="rotate(-19.999 309.175 267.539)">
+        <tspan x="288.175" y="271.539">2F East</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="12" transform="rotate(-19.999 296.958 475.959)">
+        <tspan x="247.458" y="479.959">Ford Food &amp; Drink</tspan>
+      </text>
+      <path stroke="#FDEC11" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="9" d="M234.5,36 L225.5,36"/>
+      <g transform="translate(43 285)">
+        <path stroke="#000000" stroke-linejoin="bevel" stroke-width="2" d="M0.837,3.002 L19.912,3"/>
+        <polygon fill="#000000" fill-rule="nonzero" points="19.183 5.479 23.5 2.986 19.183 .493"/>
+      </g>
+      <g transform="translate(88 303)">
+        <path stroke="#000000" stroke-linejoin="bevel" stroke-width="2" d="M4.426,2.67 L23.501,2.668"/>
+        <polygon fill="#000000" fill-rule="nonzero" points="5.156 5.148 .838 2.656 5.155 .163"/>
+      </g>
+      <g transform="translate(184 285)">
+        <path stroke="#000000" stroke-linejoin="bevel" stroke-width="2" d="M0.837,3.002 L19.912,3"/>
+        <polygon fill="#000000" fill-rule="nonzero" points="19.183 5.479 23.5 2.986 19.182 .493"/>
+      </g>
+      <g transform="translate(243 303)">
+        <path stroke="#000000" stroke-linejoin="bevel" stroke-width="2" d="M4.088,3.002 L23.164,3"/>
+        <polygon fill="#000000" fill-rule="nonzero" points="4.817 5.48 .5 2.988 4.817 .495"/>
+      </g>
+    </g>
+    <g transform="translate(234 269)">
+      <circle cx="419.167" cy="18.001" r="18" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="4"/>
+      <path fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="4" d="M432.5,234.001 C432.5,243.94 424.441,251.998 414.5,251.998 C404.559,251.998 396.5,243.94 396.5,234.001 C396.5,224.059 404.559,216 414.5,216 C424.441,216 432.5,224.059 432.5,234.001 Z"/>
+      <circle cx="414.5" cy="450" r="18" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="4"/>
+      <circle cx="414.5" cy="522" r="18" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="4"/>
+      <circle cx="630.5" cy="450" r="18" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="4"/>
+      <text fill="#000000" font-family="Helvetica" font-size="12" transform="rotate(-19.999 392.488 25.988)">
+        <tspan x="384.988" y="29.988">E3</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="12" transform="rotate(-19.999 398.886 210.123)">
+        <tspan x="391.386" y="214.123">E2</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="12" transform="rotate(-19.999 304.562 265.395)">
+        <tspan x="284.062" y="269.395">Tillikum</tspan>
+      </text>
+      <text fill="#000000" font-family="Helvetica" font-size="12" transform="rotate(-19.999 669.957 415.34)">
+        <tspan x="640.956" y="419.341">Front Door</tspan>
+      </text>
+      <circle cx="18.5" cy="522" r="18" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="4"/>
+      <circle cx="504.5" cy="18.001" r="18" fill="#FFFFFF" fill-rule="nonzero" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="4"/>
+    </g>
+    <g fill="#000000" font-family="Helvetica" font-size="12" transform="translate(634)">
+      <text transform="rotate(-19.999 147.072 262.833)">
+        <tspan x="121.572" y="266.833">Suite 300</tspan>
+      </text>
+      <text transform="rotate(-19.999 25.33 235.68)">
+        <tspan x="1.329" y="239.679">Burnside</tspan>
+      </text>
+      <text transform="rotate(-19.999 60.464 191.175)">
+        <tspan x="35.964" y="195.175">Sellwood</tspan>
+      </text>
+      <text transform="rotate(-19.999 132.44 229.445)">
+        <tspan x="109.94" y="233.445">Fremont</tspan>
+      </text>
+      <g transform="rotate(-19.999 211.774 -593.405)">
+        <text>
+          <tspan x="0" y="11">To Block 300</tspan>
+        </text>
+        <text>
+          <tspan x="0" y="25.4">(opening Dec 2014)</tspan>
+        </text>
+      </g>
+      <text transform="rotate(-19.999 403.082 697.073)">
+        <tspan x="386.082" y="701.073">TriMet</tspan>
+      </text>
+    </g>
+    <g fill-rule="nonzero" transform="translate(301 293)">
+      <circle cx="81.993" cy="83.985" r="81" fill="#C7DE97" stroke="#0D4979" stroke-width="25"/>
+      <circle cx="82.993" cy="84.985" r="5" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="9"/>
+      <path fill="#FFFFFF" stroke="#00ABDC" stroke-width="25" d="M0.993,81.985 C0.993,37.25 37.258,0.985 81.993,0.985 C126.728,0.985 162.993,37.25 162.993,81.985"/>
+      <g transform="translate(68 31)">
+        <path fill="#C7DE98" d="M32.993,37.819 L68.993,1.152"/>
+        <polygon fill="#87C458" points="29.73 68.951 68.393 .563 .707 40.455"/>
+      </g>
+      <g transform="translate(30 71)">
+        <path fill="#C7DE98" d="M43.993,23.318 L0.326,68.318"/>
+        <polygon fill="#00A859" points="39.191 .291 .93 68.904 68.381 28.616"/>
+      </g>
+    </g>
+    <g transform="translate(274 363)">
+      <path fill="#C7DE97" fill-rule="nonzero" stroke="#000000" stroke-width="30" d="M0.993,14.652 L216.993,14.652"/>
+      <text fill="#FFFFFF" font-family="Helvetica" font-size="20.219">
+        <tspan x="24.493" y="20.652">UNDERGROUND</tspan>
+      </text>
+    </g>
+    <g stroke="#000000" transform="translate(456 284)">
+      <circle cx="150.832" cy="250.668" r="7.333"/>
+      <circle cx="174.5" cy="250.668" r="7.333"/>
+      <polyline points="150.832 250.834 154.333 239.834 173.333 249.959 172.499 240.459 154.333 239.834"/>
+      <path d="M170.499,238.668 L173.999,238.668"/>
+      <polyline points="154.333 239.584 156.083 238.085 159.249 237.584"/>
+      <path d="M172.499,240.459 L172.333,238.918"/>
+      <circle cx="324.499" cy="251.001" r="7.334"/>
+      <circle cx="348.167" cy="251.001" r="7.334"/>
+      <polyline points="324.499 251.167 327.999 240.167 346.999 250.292 346.166 240.792 327.999 240.167"/>
+      <path d="M344.166,239.001 L347.666,239.001"/>
+      <polyline points="327.999 239.917 329.751 238.418 332.916 237.917"/>
+      <path d="M346.166,240.792 L346.001,239.251"/>
+      <circle cx="8.165" cy="544.001" r="7.333"/>
+      <circle cx="31.833" cy="544.001" r="7.333"/>
+      <polyline points="8.165 544.167 11.666 533.167 30.666 543.292 29.832 533.792 11.666 533.167"/>
+      <path d="M27.832,532.001 L31.332,532.001"/>
+      <polyline points="11.666 532.917 13.417 531.418 16.582 530.917"/>
+      <path d="M29.832,533.792 L29.667,532.251"/>
+      <circle cx="125.832" cy="14.001" r="7.333"/>
+      <circle cx="149.5" cy="14.001" r="7.334"/>
+      <polyline points="125.832 14.167 129.333 3.167 148.333 13.292 147.499 3.792 129.333 3.167"/>
+      <path d="M145.499,2.001 L148.999,2.001"/>
+      <polyline points="129.333 2.917 131.083 1.418 134.249 .917"/>
+      <path d="M147.499,3.792 L147.333,2.251"/>
+      <circle cx="267.832" cy="45.001" r="7.333"/>
+      <circle cx="291.5" cy="45.001" r="7.334"/>
+      <polyline points="267.832 45.167 271.333 34.167 290.332 44.292 289.499 34.792 271.333 34.167"/>
+      <path d="M287.499,33.001 L290.999,33.001"/>
+      <polyline points="271.333 33.917 273.083 32.418 276.249 31.917"/>
+      <path d="M289.499,34.792 L289.334,33.251"/>
+    </g>
+    <path fill="#000000" fill-rule="nonzero" d="M27.11,10.157 C27.27,11.157 27.11,12.556 27.11,13.837 C27.11,15.118 27.11,16.357 27.11,17.477 C26.43,17.477 25.75,17.477 25.07,17.477 C24.87,18.477 25.15,19.677 24.83,20.437 C24.15,21.998 21.47,22.118 20.87,20.317 C20.55,19.517 20.83,18.717 20.75,17.477 C16.03,17.477 11.35,17.477 6.63,17.477 C6.43,18.557 6.75,19.397 6.51,20.237 C5.99,22.237 2.95,22.038 2.43,20.237 C2.23,19.437 2.47,18.517 2.39,17.517 C1.75,17.397 0.91,17.517 0.19,17.477 C0.31,15.397 0.07,12.597 0.19,10.597 C0.31,8.997 1.27,7.997 2.63,7.557 C3.27,6.037 4.03,4.277 4.75,2.637 C5.19,1.557 5.59,0.477 7.03,0.317 C8.07,0.158 9.27,0.317 10.43,0.317 C12.67,0.317 14.99,0.317 17.27,0.317 C18.67,0.317 20.55,0.118 21.43,0.677 C22.07,1.157 22.35,2.037 22.71,2.877 C23.39,4.437 23.99,5.837 24.71,7.517 C25.83,7.997 26.91,8.677 27.11,10.157 Z M24.71,12.117 C25.03,10.396 23.55,9.436 22.31,9.596 C21.27,9.716 20.59,10.396 20.47,11.197 C20.23,12.676 21.31,13.636 22.31,13.717 C23.31,13.837 24.51,13.197 24.71,12.117 Z M4.79,7.477 C10.71,7.477 16.67,7.477 22.59,7.477 C21.99,5.957 21.51,4.917 20.87,3.437 C20.67,2.958 20.55,2.397 20.19,2.158 C19.67,1.838 18.03,1.958 17.15,1.958 C14.83,1.958 12.99,1.958 10.79,1.958 C9.67,1.958 8.51,1.878 7.55,1.958 C6.95,2.038 6.75,2.638 6.51,3.198 C5.91,4.717 5.31,6.197 4.79,7.477 Z M6.75,11.957 C6.95,10.316 5.63,9.436 4.35,9.597 C1.87,9.877 1.91,13.437 4.31,13.717 C5.47,13.877 6.59,13.077 6.75,11.957 Z" transform="translate(418 815)"/>
+  </g>
+</svg>
