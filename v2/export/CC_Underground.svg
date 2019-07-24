@@ -1,25 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1894" height="1256" viewBox="0 0 1894 1256">
   <defs>
-    <path id="a" d="M309.794042,163 L157.144448,163.689065 C139.471516,163.768841 125.080102,149.50677 125.000326,131.833838 C125.000109,131.78569 125,131.73754 125,131.689391 L125,16 C125,7.163444 117.836556,-1.623249e-15 109,0 L16,-1.77635684e-15 C7.163444,-1.53107837e-16 -1.082166e-15,7.163444 0,16 L0,490 C1.082166e-15,498.836556 7.163444,506 16,506 L320.001253,506 C328.837809,506 336.001253,513.163444 336.001253,522 L336.001253,585 C336.001253,593.836556 343.164697,601 352.001253,601 L572.356575,601"/>
-    <path id="b" d="M73.95987,5.50672873e-14 L308.764652,1.13686838e-13 C317.048923,1.12165042e-13 323.764652,6.71572875 323.764652,15 L323.764652,48.6877408 C323.764652,66.3608528 309.437764,80.6877408 291.764652,80.6877408 L231.840672,80.6877408 C223.004116,80.6877408 215.840672,87.8511848 215.840672,96.6877408 L215.840672,231 L307.764631,231 C316.601187,231 323.764631,223.836556 323.764631,215 C323.764631,214.982852 323.764604,214.965704 323.764548,214.948556 L323.726296,203.051444 C323.697884,194.214934 330.838259,187.028495 339.674769,187.000083 C339.691917,187.000028 339.709065,187 339.726213,187 L489,187 C497.836556,187 505,194.163444 505,203 L505,282 C505,290.836556 497.836556,298 489,298 L16.674686,298 C7.83812996,298 0.674685956,290.836556 0.674685956,282 L0.674685956,247 C0.674685956,238.163444 7.83812996,231 16.674686,231 L221.580379,231"/>
-    <path id="c" d="M261.139329,53.599973 L261.139329,566.777913 C261.139329,575.614469 268.302773,582.777913 277.139329,582.777913 L633.637146,582.777913 C642.473702,582.777913 649.637146,589.941357 649.637146,598.777913 L649.637146,633.598581 C649.637146,642.435137 642.473702,649.598581 633.637146,649.598581 L-52.5570425,649.598581"/>
+    <path id="a" d="M309.794042,163 L157.144448,163.689065 C139.471516,163.768841 125.080102,149.50677 125.000326,131.833838 C125.000109,131.78569 125,131.73754 125,131.689391 L125,16 C125,7.163444 117.836556,6.22518934e-15 109,0 L16,0 C7.163444,1.623249e-15 -1.082166e-15,7.163444 0,16 L0,489 C1.082166e-15,497.836556 7.163444,505 16,505 L320.001253,505 C328.837809,505 336.001253,512.163444 336.001253,521 L336.001253,598 C336.001253,606.836556 343.164697,614 352.001253,614 L572.356575,614"/>
+    <path id="b" d="M73.95987,0 L308.764652,0 C317.048923,2.33471998e-14 323.764652,6.71572875 323.764652,15 L323.764652,47.6877408 C323.764652,65.3608528 309.437764,79.6877408 291.764652,79.6877408 L231.840672,79.6877408 C223.004116,79.6877408 215.840672,86.8511848 215.840672,95.6877408 L215.840672,217 C215.840672,225.836556 223.004116,233 231.840672,233 L307.767925,233 C316.604481,233 323.767925,225.836556 323.767925,217 C323.767925,216.983946 323.767901,216.967893 323.767853,216.951839 L323.722992,202.048161 C323.696393,193.211645 330.838243,186.026671 339.674759,186.000072 C339.690812,186.000024 339.706866,186 339.722919,186 L489,186 C497.836556,186 505,193.163444 505,202 L505,281 C505,289.836556 497.836556,297 489,297 L16.674686,297 C7.83812996,297 0.674685956,289.836556 0.674685956,281 L0.674685956,249 C0.674685956,240.163444 7.83812996,233 16.674686,233 L231.580379,233"/>
+    <path id="c" d="M267.139329,46.599973 L267.139329,559.777913 C267.139329,568.614469 274.302773,575.777913 283.139329,575.777913 L626.637146,575.777913 C635.473702,575.777913 642.637146,582.941357 642.637146,591.777913 L642.637146,626.598581 C642.637146,635.435137 635.473702,642.598581 626.637146,642.598581 L-45.5570425,642.598581"/>
     <path id="d" d="M0.616833928,0.207450543 L0.616833928,54.6833163 C0.616833928,63.5198723 7.78027793,70.6833163 16.6168339,70.6833163 L108.055267,70.6833163 C125.728379,70.6833163 140.055267,85.0102043 140.055267,102.683316 L140.055267,218.633272 C140.055267,227.469828 147.218711,234.633272 156.055267,234.633272 L218.075793,234.633272 C226.912349,234.633272 234.075793,227.469828 234.075793,218.633272 L234.075793,0"/>
-    <path id="e" d="M428,1.77635684e-14 L428,1256"/>
-    <path id="f" d="M416,1.77635684e-14 L416,1256"/>
-    <path id="g" d="M298,509.25 L430,509.25 C438.836556,509.25 446,502.086556 446,493.25 L446,434"/>
-    <path id="h" d="M520,0 L519.89627,70.0237016 C519.883194,78.8509933 512.723589,86 503.896288,86 L228,86 C219.163444,86 212,93.163444 212,102 L212,314.033089 C212,322.869645 219.163444,330.033089 228,330.033089 L287.451045,330.033089 C305.124157,330.033089 319.451045,344.359977 319.451045,362.033089 L319.451045,493.210354 C319.451045,502.04691 312.287601,509.210354 303.451045,509.210354 L228,509.210354 C219.163444,509.210354 212,502.04691 212,493.210354 L212,465.608392 C212,449.03985 198.568542,435.608392 182,435.608392 L31.821602,435.608392 C14.7007748,435.608392 0.821602013,449.487565 0.821602013,466.608392 L0.821602013,546.70795 C0.821602013,563.276492 14.2530595,576.70795 30.821602,576.70795 L196,576.70795 C204.836556,576.70795 212,569.544506 212,560.70795 L212,490.782528"/>
-    <polygon id="i" points="30.459 .077 .06 .077 .06 60.94 60.857 60.94 60.857 .077"/>
-    <path id="k" d="M0.91003418,416.443394 L0.91003418,16 C0.91003418,7.163444 8.07347818,1.623249e-15 16.9100342,0 L603.796338,0 C612.632894,-6.44107557e-14 619.796338,7.163444 619.796338,16 L619.796338,978.773891"/>
-    <path id="l" d="M32,1112 L32,1174"/>
-    <path id="m" d="M47,1112 L47,1174"/>
-    <path id="n" d="M38,992 L38,1058.55449"/>
-    <path id="o" d="M38,878 L38,943.007692"/>
-    <path id="p" d="M38,762 L38,827.007692"/>
-    <path id="q" d="M38,645 L38,710.007692"/>
-    <path id="r" d="M38,558 L38,601"/>
-    <path id="s" d="M38,441 L38,506.007692"/>
-    <path id="t" d="M38,301 L38,386.826266"/>
-    <polygon id="u" points="95.165 .224 0 .224 0 191.805 190.33 191.805 190.33 .224"/>
+    <path id="e" d="M20,1.77635684e-14 L20,1256"/>
+    <path id="f" d="M8,1.77635684e-14 L8,1256"/>
+    <path id="g" d="M520,0 L519.89627,70.0237016 C519.883194,78.8509933 512.723589,86 503.896288,86 L228,86 C219.163444,86 212,93.163444 212,102 L212,313.033089 C212,321.869645 219.163444,329.033089 228,329.033089 L287.451045,329.033089 C305.124157,329.033089 319.451045,343.359977 319.451045,361.033089 L319.451045,479.210354 C319.451045,496.883466 305.124157,511.210354 287.451045,511.210354 L228,511.210354 C219.163444,511.210354 212,504.04691 212,495.210354 L212,464.608392 C212,448.03985 198.568542,434.608392 182,434.608392 L31.821602,434.608392 C14.7007748,434.608392 0.821602013,448.487565 0.821602013,465.608392 L0.821602013,545.70795 C0.821602013,562.276492 14.2530595,575.70795 30.821602,575.70795 L196,575.70795 C204.836556,575.70795 212,568.544506 212,559.70795 L212,489.782528"/>
+    <polygon id="h" points="30.459 .077 .06 .077 .06 60.94 60.857 60.94 60.857 .077"/>
+    <path id="j" d="M0.91003418,416.443394 L0.91003418,16 C0.91003418,7.163444 8.07347818,1.623249e-15 16.9100342,0 L603.796338,0 C612.632894,-6.44107557e-14 619.796338,7.163444 619.796338,16 L619.796338,978.773891"/>
+    <path id="k" d="M32,1123 L32,1185"/>
+    <path id="l" d="M47,1123 L47,1185"/>
+    <path id="m" d="M38,985 L38,1051.55449"/>
+    <path id="n" d="M38,853 L38,918.007692"/>
+    <path id="o" d="M38,728 L38,793.007692"/>
+    <path id="p" d="M38,593 L38,658.007692"/>
+    <path id="q" d="M38,459 L38,524.007692"/>
+    <path id="r" d="M38,301 L38,386.826266"/>
+    <polygon id="s" points="95.165 .224 0 .224 0 191.805 190.33 191.805 190.33 .224"/>
   </defs>
   <g fill="none" fill-rule="evenodd">
     <rect width="1894" height="1256" fill="#E8D5BA"/>
@@ -59,27 +57,31 @@
         <tspan x="879.075" y="703">SW NAITO PKWY</tspan>
       </text>
     </g>
-    <g stroke-linecap="round" transform="translate(730 465)">
+    <g stroke-linecap="round" transform="translate(730 452)">
       <use stroke="#979797" stroke-width="16" xlink:href="#a"/>
       <use stroke="#FFFFFF" stroke-width="14" xlink:href="#a"/>
       <use stroke="#FFC346" stroke-width="12" xlink:href="#a"/>
     </g>
-    <g stroke-linecap="round" transform="matrix(-1 0 0 1 1374.675 643)">
-      <use stroke="#979797" stroke-width="16" xlink:href="#b"/>
-      <use stroke="#FFFFFF" stroke-width="14" xlink:href="#b"/>
-      <use stroke="#FFE746" stroke-width="12" xlink:href="#b"/>
+    <g transform="translate(869 630)">
+      <g stroke-linecap="round" transform="matrix(-1 0 0 1 505.675 0)">
+        <use stroke="#979797" stroke-width="16" xlink:href="#b"/>
+        <use stroke="#FFFFFF" stroke-width="14" xlink:href="#b"/>
+        <use stroke="#FFE746" stroke-width="12" xlink:href="#b"/>
+      </g>
+      <path fill="#F8F8F8" stroke="#979797" stroke-linecap="square" d="M154.164953,301.999588 C154.144527,301.494745 153.941454,300.995808 153.555847,300.610201 C152.742657,299.797012 151.423877,299.796305 150.610334,300.609848 C150.224823,300.995359 150.021993,301.494223 150.001693,301.998983 L147,301.998546 L152.000646,292 L157,302 L154.164953,301.999588 Z" transform="rotate(90 152 297)"/>
+      <path fill="#F8F8F8" stroke="#979797" stroke-linecap="square" d="M148.164953,190.999588 C148.144527,190.494745 147.941454,189.995808 147.555847,189.610201 C146.742657,188.797012 145.423877,188.796305 144.610334,189.609848 C144.224823,189.995359 144.021993,190.494223 144.001693,190.998983 L141,190.998546 L146.000646,181 L151,191 L148.164953,190.999588 Z" transform="rotate(-90 146 186)"/>
     </g>
-    <g stroke-linecap="round" transform="matrix(0 -1 -1 0 1094.14 904.14)">
+    <g stroke-linecap="round" transform="matrix(0 -1 -1 0 1087.14 897.14)">
       <use stroke="#979797" stroke-width="16" xlink:href="#c"/>
       <use stroke="#FFFFFF" stroke-width="14" xlink:href="#c"/>
       <use stroke="#8B572A" stroke-width="12" xlink:href="#c"/>
     </g>
-    <g stroke-linecap="round" transform="translate(730 379)">
+    <g stroke-linecap="round" transform="translate(730 366)">
       <use stroke="#979797" stroke-width="16" xlink:href="#d"/>
       <use stroke="#FFFFFF" stroke-width="14" xlink:href="#d"/>
       <use stroke="#C533DB" stroke-width="12" xlink:href="#d"/>
     </g>
-    <g stroke-linecap="square" transform="translate(1066)">
+    <g stroke-linecap="square" transform="translate(1474)">
       <use stroke="#979797" stroke-width="16" xlink:href="#e"/>
       <use stroke="#FFFFFF" stroke-width="14" xlink:href="#e"/>
       <use stroke="#D0021B" stroke-width="12" xlink:href="#e"/>
@@ -87,81 +89,76 @@
       <use stroke="#FFFFFF" stroke-width="14" xlink:href="#f"/>
       <use stroke="#3C68F8" stroke-width="12" xlink:href="#f"/>
     </g>
-    <g transform="translate(854 379)">
+    <g transform="translate(854 366)">
       <g stroke-linecap="round">
         <use stroke="#979797" stroke-width="16" xlink:href="#g"/>
         <use stroke="#FFFFFF" stroke-width="14" xlink:href="#g"/>
         <use stroke="#B3B3B3" stroke-width="12" xlink:href="#g"/>
       </g>
-      <path stroke="#FFFFFF" stroke-dasharray="8 8" stroke-width="4" d="M298,509.23999 L430,509.23999 C438.836556,509.23999 446,502.076546 446,493.23999 L446,430"/>
-      <g stroke-linecap="round">
-        <use stroke="#979797" stroke-width="16" xlink:href="#h"/>
-        <use stroke="#FFFFFF" stroke-width="14" xlink:href="#h"/>
-        <use stroke="#B3B3B3" stroke-width="12" xlink:href="#h"/>
-      </g>
-      <path fill="#FFFFFF" d="M163.164953,439.999588 C163.144527,439.494745 162.941454,438.995808 162.555847,438.610201 C161.742657,437.797012 160.423877,437.796305 159.610334,438.609848 C159.224823,438.995359 159.021993,439.494223 159.001693,439.998983 L156,439.998546 L161.000646,430 L166,440 L163.164953,439.999588 Z" transform="rotate(-90 161 435)"/>
-      <path fill="#FFFFFF" d="M169.164953,581.999588 C169.144527,581.494745 168.941454,580.995808 168.555847,580.610201 C167.742657,579.797012 166.423877,579.796305 165.610334,580.609848 C165.224823,580.995359 165.021993,581.494223 165.001693,581.998983 L162,581.998546 L167.000646,572 L172,582 L169.164953,581.999588 Z" transform="rotate(90 167 577)"/>
+      <path fill="#FFFFFF" d="M163.164953,439.499588 C163.144527,438.994745 162.941454,438.495808 162.555847,438.110201 C161.742657,437.297012 160.423877,437.296305 159.610334,438.109848 C159.224823,438.495359 159.021993,438.994223 159.001693,439.498983 L156,439.498546 L161.000646,429.5 L166,439.5 L163.164953,439.499588 Z" transform="rotate(-90 161 434.5)"/>
+      <path fill="#FFFFFF" d="M169.164953,580.499588 C169.144527,579.994745 168.941454,579.495808 168.555847,579.110201 C167.742657,578.297012 166.423877,578.296305 165.610334,579.109848 C165.224823,579.495359 165.021993,579.994223 165.001693,580.498983 L162,580.498546 L167.000646,570.5 L172,580.5 L169.164953,580.499588 Z" transform="rotate(90 167 575.5)"/>
     </g>
     <g opacity=".501" transform="translate(433 1132)">
       <text fill="#4A4A4A" font-family="GillSans, Gill Sans" font-size="24" letter-spacing=".933">
         <tspan x=".253" y="93">NORTH</tspan>
       </text>
       <g transform="translate(12 6)">
-        <mask id="j" fill="white">
-          <use xlink:href="#i"/>
+        <mask id="i" fill="white">
+          <use xlink:href="#h"/>
         </mask>
-        <path fill="#4A4A4A" d="M30.429 8.647C42.114 8.647 51.661 17.807 52.285 29.338L60.857 29.338C60.685 20.535 58.667 12.385 55.302 5.667 48.277 2.146 39.695.077 30.429.077 21.163.077 12.582 2.146 5.557 5.667 2.189 12.385.171 20.535 0 29.338L8.571 29.338C9.195 17.807 18.742 8.647 30.429 8.647M30.429 52.43C18.742 52.43 9.195 43.271 8.571 31.738L0 31.738C.171 40.542 2.189 48.693 5.557 55.412 12.582 58.931 21.163 61 30.429 61 39.695 61 48.277 58.931 55.302 55.412 58.667 48.693 60.685 40.542 60.857 31.738L52.285 31.738C51.662 43.271 42.114 52.43 30.429 52.43" mask="url(#j)"/>
+        <path fill="#4A4A4A" d="M30.429 8.647C42.114 8.647 51.661 17.807 52.285 29.338L60.857 29.338C60.685 20.535 58.667 12.385 55.302 5.667 48.277 2.146 39.695.077 30.429.077 21.163.077 12.582 2.146 5.557 5.667 2.189 12.385.171 20.535 0 29.338L8.571 29.338C9.195 17.807 18.742 8.647 30.429 8.647M30.429 52.43C18.742 52.43 9.195 43.271 8.571 31.738L0 31.738C.171 40.542 2.189 48.693 5.557 55.412 12.582 58.931 21.163 61 30.429 61 39.695 61 48.277 58.931 55.302 55.412 58.667 48.693 60.685 40.542 60.857 31.738L52.285 31.738C51.662 43.271 42.114 52.43 30.429 52.43" mask="url(#i)"/>
         <path fill="#4A4A4A" d="M30.428,34.706 C28.126,34.706 26.261,32.84 26.261,30.538 C26.261,28.238 28.126,26.372 30.428,26.372 C32.729,26.372 34.593,28.238 34.593,30.538 C34.593,32.84 32.729,34.706 30.428,34.706 Z M22.691,22.797 L22.69,22.801 L22.69,22.8 L14.948,46.019 L38.165,38.276 L38.166,38.277 L38.17,38.275 L45.906,15.06 L22.691,22.797 L22.691,22.797 Z" transform="rotate(-68 30.427 30.54)"/>
       </g>
     </g>
     <g stroke-linecap="round" transform="translate(1050 198)">
-      <use stroke="#979797" stroke-width="16" xlink:href="#k"/>
-      <use stroke="#FFFFFF" stroke-width="14" xlink:href="#k"/>
-      <use stroke="#417505" stroke-width="12" xlink:href="#k"/>
-      <use stroke="#FFFFFF" stroke-width="2" xlink:href="#k"/>
+      <use stroke="#979797" stroke-width="16" xlink:href="#j"/>
+      <use stroke="#FFFFFF" stroke-width="14" xlink:href="#j"/>
+      <use stroke="#417505" stroke-width="12" xlink:href="#j"/>
+      <use stroke="#FFFFFF" stroke-width="2" xlink:href="#j"/>
     </g>
-    <g fill="#F8F8F8" transform="translate(440 375)">
-      <rect width="47" height="47" x="594.5" y="237.5" stroke="#959595" rx="8"/>
-      <circle cx="733.5" cy="371.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
+    <g fill="#F8F8F8" transform="translate(440 362)">
+      <rect width="47" height="47" x="594.5" y="239.5" stroke="#959595" rx="8"/>
+      <circle cx="733.5" cy="370.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
       <circle cx="733.5" cy="268" r="4.5" stroke="#979797" stroke-linecap="square"/>
       <circle cx="860.5" cy="268" r="4.5" stroke="#979797" stroke-linecap="square"/>
-      <circle cx="626" cy="475.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
+      <circle cx="626" cy="474.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
       <circle cx="733.5" cy="90" r="4.5" stroke="#979797" stroke-linecap="square"/>
       <circle cx="860.5" cy="90" r="4.5" stroke="#979797" stroke-linecap="square"/>
       <circle cx="934" cy="4.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
-      <circle cx="626" cy="314.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
-      <circle cx="733.5" cy="439.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
-      <circle cx="415" cy="524.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
-      <circle cx="860" cy="439.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
-      <circle cx="524" cy="439.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
+      <circle cx="626" cy="313.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
+      <circle cx="733.5" cy="438.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
+      <circle cx="415" cy="523.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
+      <circle cx="524" cy="438.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
       <circle cx="503.5" cy="253.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
       <circle cx="503.5" cy="238.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
       <circle cx="503.5" cy="268" r="4.5" stroke="#979797" stroke-linecap="square"/>
       <circle cx="458.5" cy="238.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
-      <circle cx="458.5" cy="252.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
+      <circle cx="458.5" cy="253.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
       <circle cx="458.5" cy="268" r="4.5" stroke="#979797" stroke-linecap="square"/>
-      <circle cx="415" cy="181.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
-      <circle cx="290" cy="371.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
-      <circle cx="415" cy="109.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
-      <circle cx="860" cy="691" r="4.5" stroke="#979797" stroke-linecap="square"/>
-      <circle cx="4.5" cy="94" r="4.5" stroke="#979797" stroke-linecap="square"/>
-      <circle cx="4.5" cy="580.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
+      <circle cx="415" cy="194.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
+      <circle cx="290" cy="370.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
+      <circle cx="415" cy="122.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
+      <circle cx="860" cy="704" r="4.5" stroke="#979797" stroke-linecap="square"/>
+      <circle cx="4.5" cy="90" r="4.5" stroke="#979797" stroke-linecap="square"/>
+      <circle cx="4.5" cy="579.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
       <circle cx="108.5" cy="268" r="4.5" stroke="#979797" stroke-linecap="square"/>
       <circle cx="524" cy="4.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
       <circle cx="290.5" cy="4.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
       <circle cx="1230" cy="268" r="4.5" stroke="#979797" stroke-linecap="square"/>
-      <circle cx="1230" cy="799.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
+      <circle cx="1230" cy="812.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
       <circle cx="1042" cy="268" r="4.5" stroke="#979797" stroke-linecap="square"/>
       <circle cx="1055" cy="268" r="4.5" stroke="#979797" stroke-linecap="square"/>
-      <circle cx="524" cy="580.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
-      <circle cx="458.5" cy="439.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
-      <circle cx="415" cy="475.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
-      <circle cx="430" cy="475.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
-      <circle cx="860" cy="566" r="4.5" stroke="#979797" stroke-linecap="square"/>
+      <circle cx="524" cy="579.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
+      <circle cx="458.5" cy="438.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
+      <circle cx="415" cy="474.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
+      <circle cx="430" cy="474.5" r="4.5" stroke="#979797" stroke-linecap="square"/>
+      <circle cx="860" cy="565" r="4.5" stroke="#979797" stroke-linecap="square"/>
+      <circle cx="860" cy="500.828" r="4.5" stroke="#979797" stroke-linecap="square"/>
+      <circle cx="733.5" cy="565" r="4.5" stroke="#979797" stroke-linecap="square"/>
     </g>
-    <g fill="#6B6B6B" font-family="GillSans, Gill Sans" transform="translate(297 306)">
-      <text font-size="24" letter-spacing=".933" transform="rotate(-23 1444.395 295.374)">
-        <tspan x="1383.895" y="303.374">Waterfront</tspan>
+    <g fill="#6B6B6B" font-family="GillSans, Gill Sans" transform="translate(297 293)">
+      <text font-size="24" letter-spacing=".933" transform="rotate(-23 1444.395 294.374)">
+        <tspan x="1383.895" y="302.374">Waterfront</tspan>
       </text>
       <text font-size="24" letter-spacing=".933" transform="rotate(-23 925.274 114.573)">
         <tspan x="869.774" y="122.573">Burlington</tspan>
@@ -172,23 +169,23 @@
       <text font-size="24" letter-spacing=".933" transform="rotate(-23 499.028 48.365)">
         <tspan x="443.528" y="42.365">Portland </tspan> <tspan x="443.528" y="70.365">Burger</tspan>
       </text>
-      <text font-size="24" letter-spacing=".933" transform="rotate(-23 545.926 183.39)">
-        <tspan x="513.926" y="191.39">P2</tspan>
+      <text font-size="24" letter-spacing=".933" transform="rotate(-23 545.926 196.39)">
+        <tspan x="513.926" y="204.39">P2</tspan>
       </text>
-      <text font-size="24" letter-spacing=".933" transform="rotate(-23 69.578 188.099)">
-        <tspan x="58.961" y="196.099">SW 5th</tspan>
+      <text font-size="24" letter-spacing=".933" transform="rotate(-23 69.578 190.099)">
+        <tspan x="58.961" y="198.099">SW 5th</tspan>
       </text>
-      <text font-size="24" letter-spacing=".933" transform="rotate(-23 69.578 674.099)">
-        <tspan x="57.578" y="682.099">SW 3rd</tspan>
+      <text font-size="24" letter-spacing=".933" transform="rotate(-23 69.578 682.099)">
+        <tspan x="57.578" y="690.099">SW 3rd</tspan>
       </text>
       <text font-size="24" letter-spacing=".933" transform="rotate(-23 312.313 288.946)">
         <tspan x="242.67" y="296.946">SW 2nd</tspan>
       </text>
-      <text font-size="24" letter-spacing=".933" transform="rotate(-23 546.058 248.39)">
-        <tspan x="514.058" y="256.39">P1</tspan>
+      <text font-size="24" letter-spacing=".933" transform="rotate(-23 546.058 261.39)">
+        <tspan x="514.058" y="269.39">P1</tspan>
       </text>
-      <text font-size="24" letter-spacing=".933" transform="rotate(-23 497.495 420.535)">
-        <tspan x="446.92" y="414.535">Fitness </tspan> <tspan x="446.92" y="442.535">Center</tspan>
+      <text font-size="24" letter-spacing=".933" transform="rotate(-23 497.495 419.535)">
+        <tspan x="446.92" y="413.535">Fitness </tspan> <tspan x="446.92" y="441.535">Center</tspan>
       </text>
       <text font-size="24" letter-spacing=".933" transform="rotate(-23 838.78 273.94)">
         <tspan x="779.78" y="281.94">Willamette</tspan>
@@ -199,35 +196,38 @@
       <text font-size="24" letter-spacing=".933" transform="rotate(-23 1046.78 289.94)">
         <tspan x="987.78" y="297.94">Beer/Cider</tspan>
       </text>
-      <text font-size="24" letter-spacing=".933" transform="rotate(-23 623.83 473.32)">
-        <tspan x="584.33" y="481.321">Tilikum</tspan>
+      <text font-size="24" letter-spacing=".933" transform="rotate(-23 623.83 472.32)">
+        <tspan x="584.33" y="480.321">Tilikum</tspan>
       </text>
-      <text font-size="24" letter-spacing=".933" transform="rotate(-23 487.657 564.01)">
-        <tspan x="481.879" y="572.01">Snacks</tspan>
+      <text font-size="24" letter-spacing=".933" transform="rotate(-23 487.657 563.01)">
+        <tspan x="481.879" y="571.01">Snacks</tspan>
       </text>
-      <text font-size="24" letter-spacing=".933" transform="rotate(-23 1037.148 603.758)">
-        <tspan x="1004.648" y="611.758">Desks</tspan>
+      <text font-size="24" letter-spacing=".933" transform="rotate(-23 978.217 670.593)">
+        <tspan x="941.217" y="664.593">Desks </tspan> <tspan x="941.217" y="692.593">South</tspan>
       </text>
-      <text font-size="24" letter-spacing=".933" transform="rotate(-23 711.575 471.033)">
-        <tspan x="662.575" y="479.033">Morrison</tspan>
+      <text font-size="24" letter-spacing=".933" transform="rotate(-23 1060.16 528.818)">
+        <tspan x="1002.661" y="536.818">Desks East</tspan>
       </text>
-      <text font-size="24" letter-spacing=".933" transform="rotate(-23 698.5 562.056)">
-        <tspan x="652.291" y="570.056">Burnside</tspan>
+      <text font-size="24" letter-spacing=".933" transform="rotate(-23 858.972 676)">
+        <tspan x="821.972" y="670">Desks </tspan> <tspan x="821.972" y="698">West</tspan>
       </text>
-      <text font-size="24" letter-spacing=".933" transform="rotate(-23 934.876 418.01)">
-        <tspan x="883.376" y="426.01">Broadway</tspan>
+      <text font-size="24" letter-spacing=".933" transform="rotate(-23 711.575 470.033)">
+        <tspan x="662.575" y="478.033">Morrison</tspan>
       </text>
-      <text font-size="24" letter-spacing=".933" transform="rotate(-23 914.403 489.046)">
-        <tspan x="888.403" y="497.046">Steel</tspan>
+      <text font-size="24" letter-spacing=".933" transform="rotate(-23 698.5 561.056)">
+        <tspan x="652.291" y="569.056">Burnside</tspan>
       </text>
-      <text font-size="24" letter-spacing=".933" transform="rotate(-23 1037.403 483.33)">
-        <tspan x="1011.403" y="491.331">Vista</tspan>
+      <text font-size="24" letter-spacing=".933" transform="rotate(-23 934.876 417.01)">
+        <tspan x="883.376" y="425.01">Broadway</tspan>
       </text>
-      <text font-size="24" letter-spacing=".933" transform="rotate(-23 1053.194 723.447)">
-        <tspan x="1005.694" y="731.447">Bikeways</tspan>
+      <text font-size="24" letter-spacing=".933" transform="rotate(-23 914.403 488.046)">
+        <tspan x="888.403" y="496.046">Steel</tspan>
       </text>
-      <text font-size="24" letter-spacing=".933" transform="rotate(-23 699.353 400.665)">
-        <tspan x="653.853" y="408.665">Fremont</tspan>
+      <text font-size="24" letter-spacing=".933" transform="rotate(-23 1053.194 736.447)">
+        <tspan x="1005.694" y="744.447">Bikeways</tspan>
+      </text>
+      <text font-size="24" letter-spacing=".933" transform="rotate(-23 699.353 399.665)">
+        <tspan x="653.853" y="407.665">Fremont</tspan>
       </text>
       <text font-size="24" letter-spacing=".933" transform="rotate(-23 542.095 373.624)">
         <tspan x="537.144" y="381.624">Lobby</tspan>
@@ -235,8 +235,8 @@
       <text font-size="24" letter-spacing=".933" transform="rotate(-23 586.896 382.932)">
         <tspan x="573.877" y="390.932">Elevator</tspan>
       </text>
-      <text font-size="22" letter-spacing=".856" transform="rotate(-23 477.896 624.432)">
-        <tspan x="443.339" y="631.932">Hawthorne</tspan>
+      <text font-size="22" letter-spacing=".856" transform="rotate(-23 477.896 623.432)">
+        <tspan x="443.339" y="630.932">Hawthorne</tspan>
       </text>
       <text font-size="24" letter-spacing=".933" transform="rotate(-23 600.896 704.932)">
         <tspan x="578.065" y="712.932">Marquam</tspan>
@@ -244,58 +244,52 @@
       <text font-size="24" letter-spacing=".933" transform="rotate(-23 1027.558 114.573)">
         <tspan x="972.058" y="122.573">St. Johns</tspan>
       </text>
-      <text font-size="24" letter-spacing=".933" transform="rotate(-23 1293.51 282.858)">
-        <tspan x="1204.009" y="290.858">Oak/SW 1st</tspan>
+      <text font-size="24" letter-spacing=".933" transform="rotate(-23 1293.51 281.858)">
+        <tspan x="1204.009" y="289.858">Oak/SW 1st</tspan>
       </text>
       <text font-size="24" letter-spacing=".933" transform="rotate(-23 1136.064 42.874)">
         <tspan x="1080.564" y="50.874">Sellwood</tspan>
       </text>
-      <text font-size="24" letter-spacing=".933" transform="rotate(-23 1458.895 827.374)">
-        <tspan x="1378.895" y="835.374">Salmon Springs</tspan>
+      <text font-size="24" letter-spacing=".933" transform="rotate(-23 1458.895 840.374)">
+        <tspan x="1378.895" y="848.374">Salmon Springs</tspan>
       </text>
     </g>
     <rect width="320" height="1256" fill="#F8F8F8"/>
     <text fill="#4A4A4A" font-family="GillSans, Gill Sans" font-size="24" letter-spacing=".933">
-      <tspan x="65" y="1150">TriMet service </tspan> <tspan x="65" y="1178">(trimet.org)</tspan>
+      <tspan x="65" y="1161">TriMet service </tspan> <tspan x="65" y="1189">(trimet.org)</tspan>
     </text>
     <text fill="#4A4A4A" font-family="GillSans, Gill Sans" font-size="24" letter-spacing=".933" text-decoration="underline">
-      <tspan x="65" y="1122">MAX</tspan>
+      <tspan x="65" y="1133">MAX</tspan>
     </text>
     <text fill="#4A4A4A" font-family="GillSans, Gill Sans" font-size="24" letter-spacing=".933">
-      <tspan x="65" y="1034">Puppet/Portland </tspan> <tspan x="65" y="1062">Burger</tspan>
+      <tspan x="65" y="1027">Puppet/Portland </tspan> <tspan x="65" y="1055">Burger</tspan>
     </text>
     <text fill="#4A4A4A" font-family="GillSans, Gill Sans" font-size="24" letter-spacing=".933" text-decoration="underline">
-      <tspan x="65" y="1006">P Line</tspan>
+      <tspan x="65" y="999">P Line</tspan>
     </text>
     <text fill="#4A4A4A" font-family="GillSans, Gill Sans" font-size="24" letter-spacing=".933">
-      <tspan x="65" y="918">Waterfront Park </tspan> <tspan x="65" y="946">(seasonal service)</tspan>
+      <tspan x="65" y="893">Waterfront Park </tspan> <tspan x="65" y="921">(seasonal service)</tspan>
     </text>
     <text fill="#4A4A4A" font-family="GillSans, Gill Sans" font-size="24" letter-spacing=".933" text-decoration="underline">
-      <tspan x="65" y="890">W Line</tspan>
+      <tspan x="65" y="865">W Line</tspan>
     </text>
     <text fill="#4A4A4A" font-family="GillSans, Gill Sans" font-size="24" letter-spacing=".933">
-      <tspan x="65" y="802">All day service to </tspan> <tspan x="65" y="830">snacks</tspan>
+      <tspan x="65" y="768">All day service to </tspan> <tspan x="65" y="796">snacks</tspan>
     </text>
     <text fill="#4A4A4A" font-family="GillSans, Gill Sans" font-size="24" letter-spacing=".933" text-decoration="underline">
-      <tspan x="65" y="774">S Line</tspan>
+      <tspan x="65" y="740">S Line</tspan>
     </text>
     <text fill="#4A4A4A" font-family="GillSans, Gill Sans" font-size="24" letter-spacing=".933">
-      <tspan x="65" y="686">Midday service to </tspan> <tspan x="65" y="714">food carts</tspan>
+      <tspan x="65" y="634">Midday service to </tspan> <tspan x="65" y="662">food carts</tspan>
     </text>
     <text fill="#4A4A4A" font-family="GillSans, Gill Sans" font-size="24" letter-spacing=".933" text-decoration="underline">
-      <tspan x="65" y="658">F Line</tspan>
+      <tspan x="65" y="606">F Line</tspan>
     </text>
     <text fill="#4A4A4A" font-family="GillSans, Gill Sans" font-size="24" letter-spacing=".933">
-      <tspan x="65" y="598">Peak service only</tspan>
+      <tspan x="65" y="500">Frequent, all day </tspan> <tspan x="65" y="528">service to meetings</tspan>
     </text>
     <text fill="#4A4A4A" font-family="GillSans, Gill Sans" font-size="24" letter-spacing=".933" text-decoration="underline">
-      <tspan x="65" y="570">M Line extension</tspan>
-    </text>
-    <text fill="#4A4A4A" font-family="GillSans, Gill Sans" font-size="24" letter-spacing=".933">
-      <tspan x="65" y="482">Frequent, all day </tspan> <tspan x="65" y="510">service to meetings</tspan>
-    </text>
-    <text fill="#4A4A4A" font-family="GillSans, Gill Sans" font-size="24" letter-spacing=".933" text-decoration="underline">
-      <tspan x="65" y="454">M Line</tspan>
+      <tspan x="65" y="472">M Line</tspan>
     </text>
     <text fill="#4A4A4A" font-family="GillSans, Gill Sans" font-size="24" letter-spacing=".933">
       <tspan x="65" y="338">Basement/Bikes </tspan> <tspan x="65" y="366">(transfer to city </tspan> <tspan x="65" y="394">bikeways)</tspan>
@@ -304,51 +298,45 @@
       <tspan x="65" y="310">B Line</tspan>
     </text>
     <g stroke-linecap="round">
+      <use stroke="#979797" stroke-width="16" xlink:href="#k"/>
+      <use stroke="#FFFFFF" stroke-width="14" xlink:href="#k"/>
+      <use stroke="#3C68F8" stroke-width="12" xlink:href="#k"/>
+    </g>
+    <g stroke-linecap="round">
       <use stroke="#979797" stroke-width="16" xlink:href="#l"/>
       <use stroke="#FFFFFF" stroke-width="14" xlink:href="#l"/>
-      <use stroke="#3C68F8" stroke-width="12" xlink:href="#l"/>
+      <use stroke="#D0021B" stroke-width="12" xlink:href="#l"/>
     </g>
     <g stroke-linecap="round">
       <use stroke="#979797" stroke-width="16" xlink:href="#m"/>
       <use stroke="#FFFFFF" stroke-width="14" xlink:href="#m"/>
-      <use stroke="#D0021B" stroke-width="12" xlink:href="#m"/>
+      <use stroke="#C533DB" stroke-width="12" xlink:href="#m"/>
     </g>
     <g stroke-linecap="round">
       <use stroke="#979797" stroke-width="16" xlink:href="#n"/>
       <use stroke="#FFFFFF" stroke-width="14" xlink:href="#n"/>
-      <use stroke="#C533DB" stroke-width="12" xlink:href="#n"/>
+      <use stroke="#417505" stroke-width="12" xlink:href="#n"/>
+      <use stroke="#FFFFFF" stroke-width="2" xlink:href="#n"/>
     </g>
     <g stroke-linecap="round">
       <use stroke="#979797" stroke-width="16" xlink:href="#o"/>
       <use stroke="#FFFFFF" stroke-width="14" xlink:href="#o"/>
-      <use stroke="#417505" stroke-width="12" xlink:href="#o"/>
-      <use stroke="#FFFFFF" stroke-width="2" xlink:href="#o"/>
+      <use stroke="#FFE746" stroke-width="12" xlink:href="#o"/>
     </g>
     <g stroke-linecap="round">
       <use stroke="#979797" stroke-width="16" xlink:href="#p"/>
       <use stroke="#FFFFFF" stroke-width="14" xlink:href="#p"/>
-      <use stroke="#FFE746" stroke-width="12" xlink:href="#p"/>
+      <use stroke="#8B572A" stroke-width="12" xlink:href="#p"/>
     </g>
     <g stroke-linecap="round">
       <use stroke="#979797" stroke-width="16" xlink:href="#q"/>
       <use stroke="#FFFFFF" stroke-width="14" xlink:href="#q"/>
-      <use stroke="#8B572A" stroke-width="12" xlink:href="#q"/>
+      <use stroke="#B3B3B3" stroke-width="12" xlink:href="#q"/>
     </g>
     <g stroke-linecap="round">
       <use stroke="#979797" stroke-width="16" xlink:href="#r"/>
       <use stroke="#FFFFFF" stroke-width="14" xlink:href="#r"/>
-      <use stroke="#B3B3B3" stroke-width="12" xlink:href="#r"/>
-    </g>
-    <path stroke="#FFFFFF" stroke-dasharray="8 8" stroke-width="4" d="M38,558 L38,601"/>
-    <g stroke-linecap="round">
-      <use stroke="#979797" stroke-width="16" xlink:href="#s"/>
-      <use stroke="#FFFFFF" stroke-width="14" xlink:href="#s"/>
-      <use stroke="#B3B3B3" stroke-width="12" xlink:href="#s"/>
-    </g>
-    <g stroke-linecap="round">
-      <use stroke="#979797" stroke-width="16" xlink:href="#t"/>
-      <use stroke="#FFFFFF" stroke-width="14" xlink:href="#t"/>
-      <use stroke="#FFC346" stroke-width="12" xlink:href="#t"/>
+      <use stroke="#FFC346" stroke-width="12" xlink:href="#r"/>
     </g>
     <g transform="translate(402 31)">
       <rect width="150" height="90" fill="#00693C" fill-rule="nonzero"/>
@@ -370,26 +358,26 @@
     </g>
     <g transform="translate(32 32)">
       <g transform="translate(30)">
-        <mask id="v" fill="white">
-          <use xlink:href="#u"/>
+        <mask id="t" fill="white">
+          <use xlink:href="#s"/>
         </mask>
-        <path fill="#DC241F" d="M17.463375,17.8211528 C6.4629,39.9303307 0.003225,66.9476031 0.003225,96.1101354 C0.003225,125.285669 6.4629,152.296441 17.463375,174.41212 C39.412725,185.489461 66.212475,191.99675 95.166525,191.99675 C124.107675,191.99675 150.920325,185.489461 172.869675,174.41212 C183.866925,152.296441 190.3266,125.285669 190.3266,96.1101354 C190.3266,66.9476031 183.866925,39.9368315 172.869675,17.8211528 C150.920325,6.73731024 124.107675,0.22352126 95.166525,0.22352126 C66.212475,0.22352126 39.412725,6.73731024 17.463375,17.8211528" mask="url(#v)"/>
-        <path fill="#DC241F" d="M95.1633,192 C124.107675,192 150.9171,185.492712 172.86645,174.41537 C183.8637,152.299691 190.329825,125.285669 190.329825,96.106885 L0,96.106885 C0,125.285669 6.466125,152.299691 17.463375,174.41537 C39.41595,185.492712 66.218925,192 95.1633,192" mask="url(#v)"/>
+        <path fill="#DC241F" d="M17.463375,17.8211528 C6.4629,39.9303307 0.003225,66.9476031 0.003225,96.1101354 C0.003225,125.285669 6.4629,152.296441 17.463375,174.41212 C39.412725,185.489461 66.212475,191.99675 95.166525,191.99675 C124.107675,191.99675 150.920325,185.489461 172.869675,174.41212 C183.866925,152.296441 190.3266,125.285669 190.3266,96.1101354 C190.3266,66.9476031 183.866925,39.9368315 172.869675,17.8211528 C150.920325,6.73731024 124.107675,0.22352126 95.166525,0.22352126 C66.212475,0.22352126 39.412725,6.73731024 17.463375,17.8211528" mask="url(#t)"/>
+        <path fill="#DC241F" d="M95.1633,192 C124.107675,192 150.9171,185.492712 172.86645,174.41537 C183.8637,152.299691 190.329825,125.285669 190.329825,96.106885 L0,96.106885 C0,125.285669 6.466125,152.299691 17.463375,174.41537 C39.41595,185.492712 66.218925,192 95.1633,192" mask="url(#t)"/>
         <path fill="#FFFFFE" d="M164,95.9983777 C164,133.989542 133.326574,164.787402 95.5048452,164.787402 C57.6669653,164.787402 27,133.989542 27,95.9983777 C27,58.0104577 57.6669653,27.2125984 95.5048452,27.2125984 C133.326574,27.2125984 164,58.0104577 164,95.9983777"/>
       </g>
       <path stroke="#20406B" stroke-width="38.5" d="M0,96.7559055 L250,96.7559055"/>
       <g fill="#FFFFFF" fill-rule="nonzero" transform="translate(17.5 85.67)">
-        <path d="M0,12.0944882 L0,0.239591811 L3.684925,0.239591811 L3.699675,12.4955918 C3.79934,15.5490872 6.039915,17.9936151 8.79961,18.0367874 C11.64437,18.0367874 13.94376,15.4964561 13.94376,12.4955918 L13.94376,0.239591811 L17.613945,0.239591811 L17.628695,12.1539074 C17.628695,17.5911156 13.70794,21.6467351 8.79962,21.6467351 C3.891295,21.6467351 2e-05,17.2791433 2e-05,12.0944882 L0,12.0944882 Z" transform="translate(.247 .485)"/>
+        <path d="M0,12.0944882 L0,0.239591811 L3.684925,0.239591811 L3.699675,12.4955918 C3.79934,15.5490872 6.039915,17.9936151 8.79961,18.0367874 C11.64437,18.0367874 13.94376,15.4964561 13.94376,12.4955918 L13.94376,0.239591811 L17.613945,0.239591811 L17.628695,12.1539074 C17.628695,17.5911156 13.70794,21.6467351 8.79962,21.6467351 C3.891295,21.6467351 0,17.2791433 0,12.0944882 L0,12.0944882 Z" transform="translate(.247 .485)"/>
         <polygon points="14.5 21.165 18.185 21.165 18.185 .501 14.5 .501 14.5 14.659 3.917 .501 .217 .501 .217 21.165 3.917 21.165 3.917 7.275" transform="translate(21.431 .224)"/>
-        <path d="M0,0 L0,20.6538028 L7.42616,20.6380296 C12.820885,20.6380346 17.155375,15.99808 17.155375,10.2637556 C17.155375,4.57400441 12.929635,1.51181102e-05 7.520165,1.51181102e-05 L0,0 Z M7.394825,3.78969197 C10.784955,3.78969197 13.50496,6.71321701 13.50496,10.2637405 C13.50496,13.8588372 10.690955,16.7535824 7.300825,16.7535824 L3.72875,16.7693556 L3.72875,3.80546016 L7.394825,3.78969197 Z" transform="translate(43.547 .73)"/>
+        <path d="M0,0 L0,20.6538028 L7.42616,20.6380296 C12.820885,20.6380346 17.155375,15.99808 17.155375,10.2637556 C17.155375,4.57400441 12.929635,0 7.520165,0 L0,0 Z M7.394825,3.78969197 C10.784955,3.78969197 13.50496,6.71321701 13.50496,10.2637405 C13.50496,13.8588372 10.690955,16.7535824 7.300825,16.7535824 L3.72875,16.7693556 L3.72875,3.80546016 L7.394825,3.78969197 Z" transform="translate(43.547 .73)"/>
         <polygon points="75.994 21.389 75.994 17.244 67.253 17.244 67.253 12.416 73.827 12.416 73.827 8.435 67.253 8.435 67.253 4.81 75.729 4.81 75.729 .725 63.568 .725 63.568 21.389"/>
         <path d="M0,-1.77635684e-15 L0,20.6538028 L3.697415,20.6538028 L3.697415,12.4270211 L5.906465,12.4270211 L11.703255,20.6538028 L15.698345,20.6538028 L9.74488,11.6848731 C11.73474,10.6449688 13.081955,8.64382488 13.081955,6.23719811 C13.081955,2.80551811 10.31403,-1.77635684e-15 6.909155,-1.77635684e-15 L0,-1.77635684e-15 Z M3.744415,3.64757669 L6.909155,3.66334992 C8.324165,3.66334992 9.462875,4.81102614 9.462875,6.23718299 C9.462875,7.64847874 8.32417,8.79522268 6.909155,8.79522268 L3.744415,8.79522268 L3.744415,3.64757669 Z" transform="translate(79.346 .762)"/>
         <path d="M98.57511,10.4699616 C98.57511,5.40414992 104.544685,1.76448504 112.356725,5.82010961 L112.356725,1.76448504 C105.11953,-1.47406614 94.949145,0.219489764 94.949145,10.6333732 C94.949145,21.0472617 106.048135,24.9246135 112.6073,19.1902942 L112.6073,9.35578205 L105.620685,9.35578205 L105.620685,12.9211666 L108.922375,12.9211666 L108.922375,17.4967383 C102.92332,19.9479332 98.57511,16.1448617 98.57511,10.4699616 L98.57511,10.4699616 Z"/>
         <path d="M0,-1.77635684e-15 L0,20.6538028 L3.697415,20.6538028 L3.697415,12.4270211 L5.906465,12.4270211 L11.703255,20.6538028 L15.698345,20.6538028 L9.74488,11.6848731 C11.73474,10.6449688 13.081955,8.64382488 13.081955,6.23719811 C13.081955,2.80551811 10.31403,-1.77635684e-15 6.909155,-1.77635684e-15 L0,-1.77635684e-15 Z M3.744415,3.64757669 L6.909155,3.66334992 C8.324165,3.66334992 9.462875,4.81102614 9.462875,6.23718299 C9.462875,7.64847874 8.32417,8.79522268 6.909155,8.79522268 L3.744415,8.79522268 L3.744415,3.64757669 Z" transform="translate(115.96 .762)"/>
-        <path d="M141.998745,0.272549291 C136.353445,0.272549291 131.783855,5.11506646 131.783855,11.0573707 C131.78386,17.014526 136.353445,21.8421921 141.998745,21.8421921 C147.644045,21.8421871 152.213635,17.014526 152.213635,11.0573707 C152.21363,5.11506646 147.644045,0.272549291 141.998745,0.272549291 Z M141.998745,4.34646173 C145.55101,4.34646173 148.42222,7.34343559 148.42222,11.0573707 C148.42222,14.7861669 145.55101,17.7998564 141.998745,17.7998564 C138.46122,17.7998564 135.59094,14.7861669 135.59094,11.0573707 C135.59094,7.34343559 138.46122,4.34646173 141.998745,4.34646173 Z"/>
-        <path d="M0,12.0944882 L0,0.239591811 L3.684925,0.239591811 L3.699675,12.4955918 C3.79934,15.5490872 6.039915,17.9936151 8.79961,18.0367874 C11.64437,18.0367874 13.94376,15.4964561 13.94376,12.4955918 L13.94376,0.239591811 L17.613945,0.239591811 L17.628695,12.1539074 C17.628695,17.5911156 13.70794,21.6467351 8.79962,21.6467351 C3.891295,21.6467351 2e-05,17.2791433 2e-05,12.0944882 L0,12.0944882 Z" transform="translate(155.102 .485)"/>
+        <path d="M141.998745,0.272549291 C136.353445,0.272549291 131.783855,5.11506646 131.783855,11.0573707 C131.783855,17.014526 136.353445,21.8421921 141.998745,21.8421921 C147.644045,21.8421921 152.213635,17.014526 152.213635,11.0573707 C152.213635,5.11506646 147.644045,0.272549291 141.998745,0.272549291 Z M141.998745,4.34646173 C145.55101,4.34646173 148.42222,7.34343559 148.42222,11.0573707 C148.42222,14.7861669 145.55101,17.7998564 141.998745,17.7998564 C138.46122,17.7998564 135.59094,14.7861669 135.59094,11.0573707 C135.59094,7.34343559 138.46122,4.34646173 141.998745,4.34646173 Z"/>
+        <path d="M0,12.0944882 L0,0.239591811 L3.684925,0.239591811 L3.699675,12.4955918 C3.79934,15.5490872 6.039915,17.9936151 8.79961,18.0367874 C11.64437,18.0367874 13.94376,15.4964561 13.94376,12.4955918 L13.94376,0.239591811 L17.613945,0.239591811 L17.628695,12.1539074 C17.628695,17.5911156 13.70794,21.6467351 8.79962,21.6467351 C3.891295,21.6467351 0,17.2791433 0,12.0944882 L0,12.0944882 Z" transform="translate(155.102 .485)"/>
         <polygon points="14.5 21.165 18.185 21.165 18.185 .501 14.5 .501 14.5 14.659 3.917 .501 .217 .501 .217 21.165 3.917 21.165 3.917 7.275" transform="translate(176.965 .224)"/>
-        <path d="M0,0 L0,20.6538028 L7.42616,20.6380296 C12.820885,20.6380346 17.155375,15.99808 17.155375,10.2637556 C17.155375,4.57400441 12.929635,1.51181102e-05 7.520165,1.51181102e-05 L0,0 Z M7.394825,3.78969197 C10.784955,3.78969197 13.50496,6.71321701 13.50496,10.2637405 C13.50496,13.8588372 10.690955,16.7535824 7.300825,16.7535824 L3.72875,16.7693556 L3.72875,3.80546016 L7.394825,3.78969197 Z" transform="translate(199.779 .73)"/>
+        <path d="M0,0 L0,20.6538028 L7.42616,20.6380296 C12.820885,20.6380346 17.155375,15.99808 17.155375,10.2637556 C17.155375,4.57400441 12.929635,0 7.520165,0 L0,0 Z M7.394825,3.78969197 C10.784955,3.78969197 13.50496,6.71321701 13.50496,10.2637405 C13.50496,13.8588372 10.690955,16.7535824 7.300825,16.7535824 L3.72875,16.7693556 L3.72875,3.80546016 L7.394825,3.78969197 Z" transform="translate(199.779 .73)"/>
       </g>
     </g>
   </g>
